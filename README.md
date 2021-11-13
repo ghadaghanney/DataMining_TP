@@ -11,7 +11,7 @@
   
   TP  :  Image segmentation using openCV and KMeans
 
-## Certification DataCamp:
+## Certification DataCamp
 
   • Cleaning Data in R
   
