@@ -5,10 +5,6 @@
 
   TP1 : Cleaning Data
   
-  TP2 : Clustering analysis with python
-  
-  TP4 : Decision tree + Basket market analysis
-  
   TP  :  Image segmentation using openCV and KMeans
 
 ## Certification DataCamp
