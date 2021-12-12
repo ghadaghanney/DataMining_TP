@@ -6,6 +6,8 @@
   TP1 : Cleaning Data
   
   TP  :  Image segmentation using openCV and KMeans
+  
+  TD : Decision Tree
 
 ## Certification DataCamp
 
